@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5fb684248c82894a8e7c200b676a24a, type: 3}
+  m_Name: Bonk
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponData
+  loaiTrangBi: 1
+  itemName: "G\u1EADy Bonk"
+  description: "V\u0169 kh\xED c\u1EE7a Cheems, d\xF9ng \u0111\u1EC3 Debug"
+  icon: {fileID: 1647715640330019189, guid: 5156bd5f684579b489ec300dc8f22587, type: 3}
+  isStackable: 0
+  isSellable: 0
+  sellPrice: 0
+  damage: 99999
+  range: 1
+  attackRate: 4

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5fb684248c82894a8e7c200b676a24a, type: 3}
+  m_Name: KiemDa
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponData
+  loaiTrangBi: 1
+  itemName: "Ki\u1EBFm \u0110\xE1"
+  description: "Ki\u1EBFm l\xE0m t\u1EEB \u0111\xE1 kh\xE1 ch\u1EAFc ch\u1EAFn"
+  icon: {fileID: -6795115406984562190, guid: 271d8196a361baf49b560ab2a308a5a8, type: 3}
+  isStackable: 0
+  isSellable: 1
+  sellPrice: 20
+  damage: 25
+  range: 1
+  attackRate: 4

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b72d6d698c9fc784fa5be98794e0c7b1, type: 3}
+  m_Name: Skill_Heal
+  m_EditorClassIdentifier: Assembly-CSharp::SkillData
+  skillName: Heal
+  skillType: 1
+  description: "H\u1ED3i ph\u1EE5c m\xE1u cho b\u1EA3n th\xE2n v\u1EDBi l\u01B0\u1EE3ng
+    nh\u1ECF"
+  icon: {fileID: -675588771345415762, guid: eb3c1f949d1746f44949691ce49c2dce, type: 3}
+  manaCost: 20
+  cooldown: 2
+  goldCost: 75
+  damage: 0
+  healAmount: 50
+  skillPrefab: {fileID: 0}

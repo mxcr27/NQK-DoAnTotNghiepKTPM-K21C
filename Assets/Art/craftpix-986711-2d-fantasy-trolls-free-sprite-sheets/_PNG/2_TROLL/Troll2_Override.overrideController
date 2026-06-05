@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Troll2_Override
+  m_Controller: {fileID: 9100000, guid: ae55824ca9fdab74d85a754f2e018828, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 1867edd911f84b7499ad04a3e4790294, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a3b96c63a5cf939478b37f292d3dc8ae, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e2441bb43bd8b564db3341da2522f857, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 71690e60116e82c4781adca36408e9d6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b419af1197fbdab4a918a249da32a706, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 53a4315e7b10f83489a6eecb55987117, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bdda4883fd9c53b4198f8b1a7cc63893, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2abc6b92131e4d2409d9a1e2fef687e0, type: 2}

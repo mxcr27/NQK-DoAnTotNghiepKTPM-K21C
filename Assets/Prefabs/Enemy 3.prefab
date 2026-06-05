@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7707391097746245720
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2504619166119022479, guid: 43e26e95382c8824b82cadfce18dcbb0, type: 3}
+      propertyPath: m_Name
+      value: Enemy 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2870621889972769332, guid: 43e26e95382c8824b82cadfce18dcbb0, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 40ed354820df32a439a52bbc95667637, type: 3}
+    - target: {fileID: 2870621889972769332, guid: 43e26e95382c8824b82cadfce18dcbb0, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4661882580387600818, guid: 43e26e95382c8824b82cadfce18dcbb0, type: 3}
+      propertyPath: chaseSpeed
+      value: 4.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4661882580387600818, guid: 43e26e95382c8824b82cadfce18dcbb0, type: 3}
+      propertyPath: damageAmount
+      value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4708987668883728784, guid: 43e26e95382c8824b82cadfce18dcbb0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4708987668883728784, guid: 43e26e95382c8824b82cadfce18dcbb0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4708987668883728784, guid: 43e26e95382c8824b82cadfce18dcbb0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4708987668883728784, guid: 43e26e95382c8824b82cadfce18dcbb0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4708987668883728784, guid: 43e26e95382c8824b82cadfce18dcbb0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4708987668883728784, guid: 43e26e95382c8824b82cadfce18dcbb0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4708987668883728784, guid: 43e26e95382c8824b82cadfce18dcbb0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4708987668883728784, guid: 43e26e95382c8824b82cadfce18dcbb0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4708987668883728784, guid: 43e26e95382c8824b82cadfce18dcbb0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4708987668883728784, guid: 43e26e95382c8824b82cadfce18dcbb0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4970938937201093082, guid: 43e26e95382c8824b82cadfce18dcbb0, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 22100000, guid: 47dcda1f168f9af4e8819ca8b40eb60a, type: 2}
+    - target: {fileID: 6980529630406251364, guid: 43e26e95382c8824b82cadfce18dcbb0, type: 3}
+      propertyPath: maxHealth
+      value: 800
+      objectReference: {fileID: 0}
+    - target: {fileID: 8546448126760703919, guid: 43e26e95382c8824b82cadfce18dcbb0, type: 3}
+      propertyPath: lootTable.Array.data[1].item
+      value: 
+      objectReference: {fileID: 11400000, guid: 518681f1d651fd7458e012d7265206bf, type: 2}
+    - target: {fileID: 8546448126760703919, guid: 43e26e95382c8824b82cadfce18dcbb0, type: 3}
+      propertyPath: lootTable.Array.data[2].item
+      value: 
+      objectReference: {fileID: 11400000, guid: aaa362ccc0603b94a8c503ca4a401ae4, type: 2}
+    - target: {fileID: 8546448126760703919, guid: 43e26e95382c8824b82cadfce18dcbb0, type: 3}
+      propertyPath: lootTable.Array.data[0].maxAmount
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 8546448126760703919, guid: 43e26e95382c8824b82cadfce18dcbb0, type: 3}
+      propertyPath: lootTable.Array.data[0].minAmount
+      value: 100
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 43e26e95382c8824b82cadfce18dcbb0, type: 3}
